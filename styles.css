@@ -78,10 +78,6 @@ button{
     border: none;
 }
 
-button:hover{
-    box-shadow: 0 0 8px 1px black;
-}
-
 span{
     padding: 20px;
 }
